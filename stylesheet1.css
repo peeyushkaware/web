@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>Flower Shop Sale</title>
+    <style>
+      body {
+        font-family: 'Times New Roman', Times, serif;
+        background-color: #f2f2f2;
+        color: #333333;
+        margin: 0;
+        padding: 0;
+      }
+      
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        color:black ;
+      }
+      
+      h1 {
+        text-align: center;
+      }
+      
+      .sale-banner {
+        text-align: center;
+        background-color: #ffcccc;
+        padding: 10px;
+        margin-bottom: 20px;
+      }
+      
+      .product {
+        margin-bottom: 20px;
+        border: 1px solid #dddddd;
+        padding: 10px;
+        background-color: #c3eef8;
+      }
+      
+      .product img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+      }
+      
+      .product h3 {
+        margin-top: 0;
+        color:black;
+      }
+      
+      .product p {
+        margin-bottom: 0;
+        color:black;
+      }
+      
+      .product .price {
+        font-weight: bold;
+        color:black;
+      }
+    </style>
+  </head>
+  <html>
